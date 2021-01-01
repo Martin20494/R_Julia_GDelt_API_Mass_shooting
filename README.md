@@ -1,4 +1,4 @@
-# R_Julia_GDelt_Mass_shooting
+# R_Julia_GDelt_API_Mass_shooting
 Using R and Julia to analyse Mass Shooting data scraped from API website
 
 The file contains 
