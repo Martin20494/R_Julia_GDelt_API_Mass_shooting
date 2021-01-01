@@ -47,3 +47,5 @@ As mentioned above, the results from this could be used for criminal text analys
 # 5. Process of the project
 
 ![Picture1](https://user-images.githubusercontent.com/55137629/103433631-87424680-4c59-11eb-868c-d4264f342a7e.png)
+
+The raw input would be scraped from Gdelt Project and Wikipedia by Martin and Andy. The processing data part (modifying the dataset) and visualisation would be done by Sakthi and Syaida.
